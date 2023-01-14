@@ -1,0 +1,1 @@
+export const getPointsSelector = (state) => state?.pointsReducer.points;
